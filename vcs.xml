@@ -12,6 +12,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/projects/afterbuy_API_0040158/shopware/engine/Shopware/Plugins/Community/Frontend/FatchipShopware2Afterbuy/Components" />
+    <option name="cloneParentDir" value="$USER_HOME$/projects/afterbuy_API_0040158/shopware/engine/Shopware/Plugins/Community/Frontend" />
   </component>
 </application>
