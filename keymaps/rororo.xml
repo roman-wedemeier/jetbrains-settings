@@ -192,6 +192,9 @@
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
@@ -237,7 +240,6 @@
   </action>
   <action id="Stop">
     <keyboard-shortcut first-keystroke="shift alt d" />
-    <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
   <action id="TableResult.GrowSelection" />
   <action id="UML.ZoomOut">
