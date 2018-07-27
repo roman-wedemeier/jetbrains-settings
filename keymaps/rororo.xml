@@ -76,6 +76,9 @@
   </action>
   <action id="Console.TableResult.SetDefault" />
   <action id="DatabaseView.CopyAction" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="DecrementWindowHeight" />
   <action id="Diff.ShowDiff" />
   <action id="DomElementsTreeView.DeleteElement">
