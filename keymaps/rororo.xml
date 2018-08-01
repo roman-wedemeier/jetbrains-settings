@@ -123,6 +123,7 @@
   <action id="EditorPreviousWordWithSelection" />
   <action id="EditorSelectWord" />
   <action id="EditorStartNewLine" />
+  <action id="EditorStartNewLineBefore" />
   <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="meta end" />
     <keyboard-shortcut first-keystroke="meta down" />
