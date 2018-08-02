@@ -14,8 +14,12 @@
           <option name="url" value="https://github.com/FATCHIP-GmbH/plugin-shopware5-computop.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/shopwareLabs/shopware-vagrant" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/projects/computop_iframe_0038960/src/engine/Shopware/Plugins/Community/Frontend" />
+    <option name="cloneParentDir" value="$USER_HOME$/projects" />
   </component>
 </application>
