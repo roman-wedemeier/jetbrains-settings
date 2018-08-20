@@ -146,10 +146,6 @@
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
-  <action id="QuickActionPopup">
-    <keyboard-shortcut first-keystroke="meta alt enter" />
-    <keyboard-shortcut first-keystroke="meta f2" />
-  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="shift alt f" />
@@ -178,6 +174,10 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="SendEOF" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="meta f2" />
+  </action>
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
