@@ -69,6 +69,9 @@
   </action>
   <action id="DecrementWindowHeight" />
   <action id="Diff.ShowDiff" />
+  <action id="Django.RunManageTaskAction">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="DomElementsTreeView.DeleteElement">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
@@ -136,6 +139,9 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="IncrementWindowHeight" />
+  <action id="IpnbRunAllCellsAction">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
   <action id="MinimizeCurrentWindow" />
@@ -179,7 +185,6 @@
     <keyboard-shortcut first-keystroke="f8" />
   </action>
   <action id="Run">
-    <keyboard-shortcut first-keystroke="ctrl r" />
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
