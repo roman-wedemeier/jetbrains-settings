@@ -163,8 +163,6 @@
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="IncrementWindowHeight" />
-  <action id="MethodOverloadSwitchDown" />
-  <action id="MethodOverloadSwitchUp" />
   <action id="IpnbRunAllCellsAction">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
@@ -257,7 +255,6 @@
   <action id="UML.ZoomOut">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
-  <action id="TableResult.GrowSelection" />
   <action id="Vcs.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
