@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift meta z" />
+  </action>
   <action id="ActivateDockerToolWindow">
     <keyboard-shortcut first-keystroke="meta 8" />
   </action>
@@ -50,9 +53,20 @@
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta slash" />
     <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="meta minus" />
     <keyboard-shortcut first-keystroke="meta number_sign" />
   </action>
   <action id="CompareTwoFiles" />
@@ -64,7 +78,6 @@
   <action id="Console.TableResult.SetDefault" />
   <action id="DatabaseView.CopyAction" />
   <action id="Debug">
-    <keyboard-shortcut first-keystroke="ctrl d" />
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="DecrementWindowHeight" />
@@ -85,6 +98,12 @@
   </action>
   <action id="EditorDeleteToLineStart">
     <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
+  <action id="EditorDeleteToWordStart">
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+  </action>
+  <action id="EditorDeleteToWordStartInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="alt back_space" />
   </action>
   <action id="EditorDuplicate" />
   <action id="EditorDuplicateLines">
@@ -107,6 +126,8 @@
   </action>
   <action id="EditorPreviousWordWithSelection" />
   <action id="EditorSelectWord" />
+  <action id="EditorStartNewLine" />
+  <action id="EditorStartNewLineBefore" />
   <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="meta end" />
     <keyboard-shortcut first-keystroke="meta down" />
@@ -137,6 +158,9 @@
   <action id="Graph.Delete">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="Images.Editor.ZoomOut">
+    <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="IncrementWindowHeight" />
   <action id="IpnbRunAllCellsAction">
@@ -173,6 +197,10 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
@@ -222,9 +250,11 @@
   </action>
   <action id="Stop">
     <keyboard-shortcut first-keystroke="shift alt d" />
-    <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
   <action id="TableResult.GrowSelection" />
+  <action id="UML.ZoomOut">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
   <action id="Vcs.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
