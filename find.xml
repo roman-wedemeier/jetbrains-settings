@@ -13,5 +13,6 @@
     <mask>*.mxml</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>manage.py</mask>
   </component>
 </application>
