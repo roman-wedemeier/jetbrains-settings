@@ -18,8 +18,12 @@
           <option name="url" value="https://github.com/shopwareLabs/shopware-vagrant" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.nsp-dev.space:neurospective/stage-runner.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/projects/computop_iframe_0043038/src/engine/Shopware/Plugins/Community/Frontend" />
+    <option name="cloneParentDir" value="$USER_HOME$/projekte" />
   </component>
 </application>
