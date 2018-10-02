@@ -1,7 +1,7 @@
 <keymap version="1" name="rororo" parent="Mac OS X 10.5+">
   <action id="$Delete">
     <keyboard-shortcut first-keystroke="delete" />
-    <keyboard-shortcut first-keystroke="back_space" />
+    <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift meta z" />
@@ -92,6 +92,13 @@
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Editor Delete">
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
+  <action id="EditorDelete">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta d" />
