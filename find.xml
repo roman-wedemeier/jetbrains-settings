@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="buffer.js" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -12,10 +12,11 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.php</mask>
-    <mask>*.js</mask>
     <mask>manage.py</mask>
     <mask>*.html</mask>
     <mask>*.scss</mask>
     <mask>*.py</mask>
+    <mask>*.js</mask>
+    <mask>buffer.js</mask>
   </component>
 </application>
