@@ -81,7 +81,9 @@
       <sort-values>true</sort-values>
       <option name="valueLookupDelay" value="200" />
     </data-views>
-    <general />
+    <general>
+      <run-to-cursor-gesture>false</run-to-cursor-gesture>
+    </general>
     <debuggers>
       <debugger id="javascript">
         <configuration>
