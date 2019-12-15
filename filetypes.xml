@@ -4,9 +4,9 @@
     <extensionMap>
       <mapping ext="dockerfile" type="Dockerfile" />
       <mapping pattern="ssh_config" type="PLAIN_TEXT" />
-      <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <mapping ext="1pif" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <mapping ext="blend" type="Python" />
     </extensionMap>
   </component>
