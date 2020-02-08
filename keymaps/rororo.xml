@@ -187,6 +187,10 @@
     <keyboard-shortcut first-keystroke="meta alt back_quote" />
     <keyboard-shortcut first-keystroke="meta less" />
   </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt tab" />
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
   <action id="PreviousProjectWindow">
     <keyboard-shortcut first-keystroke="shift meta alt back_quote" />
     <keyboard-shortcut first-keystroke="shift meta less" />
@@ -247,6 +251,7 @@
   <action id="Stop">
     <keyboard-shortcut first-keystroke="shift alt d" />
   </action>
+  <action id="Switcher" />
   <action id="TableResult.GrowSelection" />
   <action id="UML.ZoomOut">
     <keyboard-shortcut first-keystroke="meta subtract" />
