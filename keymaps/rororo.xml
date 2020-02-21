@@ -40,6 +40,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt d" />
     <keyboard-shortcut first-keystroke="meta alt d" />
   </action>
+  <action id="ChoosePrevSubsequentPropertyValueEditorAction" />
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
     <keyboard-shortcut first-keystroke="meta alt r" />
@@ -110,6 +111,8 @@
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
+  <action id="EditorLookupDown" />
+  <action id="EditorLookupUp" />
   <action id="EditorNextWord" />
   <action id="EditorNextWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="alt right" />
@@ -126,6 +129,12 @@
     <keyboard-shortcut first-keystroke="shift alt left" />
   </action>
   <action id="EditorPreviousWordWithSelection" />
+  <action id="EditorScrollDown">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
+  <action id="EditorScrollUp">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
   <action id="EditorSelectWord" />
   <action id="EditorStartNewLine" />
   <action id="EditorStartNewLineBefore" />
@@ -163,8 +172,12 @@
   <action id="IpnbRunAllCellsAction">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="JupyterSelectCellAboveAction" />
+  <action id="JupyterSelectCellBelowAction" />
+  <action id="MethodDown" />
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
+  <action id="MethodUp" />
   <action id="MinimizeCurrentWindow" />
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="meta m" second-keystroke="down" />
@@ -223,6 +236,7 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="SendEOF" />
+  <action id="ShowContent" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="meta f2" />
