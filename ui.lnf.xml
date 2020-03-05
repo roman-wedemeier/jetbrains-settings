@@ -20,6 +20,7 @@
       <NestingRule child-file-suffix=".js.map" parent-file-suffix=".jsx" />
       <NestingRule child-file-suffix=".css" parent-file-suffix=".less" />
       <NestingRule child-file-suffix=".css.map" parent-file-suffix=".less" />
+      <NestingRule child-file-suffix=".test.py" parent-file-suffix=".py" />
       <NestingRule child-file-suffix="_test.py" parent-file-suffix=".py" />
       <NestingRule child-file-suffix=".css" parent-file-suffix=".sass" />
       <NestingRule child-file-suffix=".css.map" parent-file-suffix=".sass" />
@@ -35,8 +36,5 @@
       <NestingRule child-file-suffix=".jsx" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".jsx.map" parent-file-suffix=".tsx" />
     </nesting-rules>
-  </component>
-  <component name="UISettings">
-    <option name="FONT_SCALE" value="1.0" />
   </component>
 </application>
