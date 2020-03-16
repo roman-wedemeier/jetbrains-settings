@@ -2,9 +2,8 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.idea;.pytest_cache;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="dolibarr/Dockerfile" type="Dockerfile" />
       <mapping pattern="dockerfiles/php/Dockerfile" type="Dockerfile" />
-      <mapping ext="dockerfile" type="Dockerfile" />
+      <mapping pattern="dolibarr/Dockerfile" type="Dockerfile" />
       <mapping pattern="ssh_config" type="PLAIN_TEXT" />
       <mapping ext="1pif" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
