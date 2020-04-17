@@ -1,0 +1,5 @@
+<application>
+  <component name="CsvEditorSettings">
+    <option name="DEFAULT_VALUE_SEPARATOR" value="SEMICOLON" />
+  </component>
+</application>
