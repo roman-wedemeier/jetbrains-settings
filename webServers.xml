@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a4989ce7-9b7e-451f-b4c5-88b0a9cb274f" name="raspi_auto" url="http://10.0.0.46">
+        <fileTransfer host="10.0.0.46" port="22" rootFolder="/home/pi" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
