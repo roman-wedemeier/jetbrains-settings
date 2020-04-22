@@ -7,6 +7,15 @@
     <scope name="Default Changelist" level="WEAK WARNING" enabled="false" />
   </inspection_tool>
   <inspection_tool class="PyMissingTypeHintsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <option name="ignoredBaseClasses">
+      <list>
+        <option value="unittest.TestCase" />
+        <option value="unittest.case.TestCase" />
+        <option value="http.server.BaseHTTPRequestHandler" />
+      </list>
+    </option>
+  </inspection_tool>
   <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="ignoredNames">
       <list>
