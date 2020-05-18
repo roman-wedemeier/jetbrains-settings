@@ -5,6 +5,7 @@
   <component name="PhpCodeSniffer">
     <phpcs_settings_migrated />
   </component>
+  <component name="PhpDebugGeneral" xdebug_resolve_breakpoints="false" />
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="/usr/local/Cellar/php@7.1/7.1.20/bin/php" id="2796108e-f971-4b16-8efe-6513e814dbcb" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
