@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tpl" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -20,8 +21,8 @@
     <mask>!package-lock*</mask>
     <mask>*.lang</mask>
     <mask>modProductCustomerPriceNumber.class.php</mask>
-    <mask>*.tpl</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.tpl</mask>
   </component>
 </application>
