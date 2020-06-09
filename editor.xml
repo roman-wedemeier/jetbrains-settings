@@ -25,6 +25,17 @@
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+    <pattern icon="important" useCustomColors="true" case-sensitive="true" pattern="\bTODO\: rw\b.*">
+      <option name="FOREGROUND" value="c0159b" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="977ab" />
+    </pattern>
+    <filter name="RomanTODO">
+      <pattern index="1" />
+    </filter>
+  </component>
   <component name="XmlFoldingSettings">
     <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
     <option name="COLLAPSE_ENTITIES" value="false" />
