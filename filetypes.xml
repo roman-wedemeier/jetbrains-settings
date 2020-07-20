@@ -5,6 +5,7 @@
       <mapping pattern="dolibarr/Dockerfile" type="Dockerfile" />
       <mapping pattern="dockerfiles/php/Dockerfile" type="Dockerfile" />
       <mapping pattern="ssh_config" type="PLAIN_TEXT" />
+      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping ext="1pif" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
