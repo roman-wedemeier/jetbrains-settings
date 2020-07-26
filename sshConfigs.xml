@@ -2,7 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="OPEN_SSH" host="10.0.0.46" id="b940342b-95e9-41e5-b90f-46397036c0db" port="22" customName="raspi_auto" nameFormat="CUSTOM" username="pi" />
-      <sshConfig authType="OPEN_SSH" host="10.0.0.46" id="42d537a9-1039-4ce3-8b72-596dbf336115" port="22" customName="raspi_auto" nameFormat="CUSTOM" username="pi" />
+      <sshConfig authType="OPEN_SSH" host="10.0.0.46" id="2d2074b1-d93c-4b57-ada6-016bef1409d2" port="22" customName="raspi_auto" nameFormat="CUSTOM" username="pi" />
     </configs>
   </component>
 </application>
