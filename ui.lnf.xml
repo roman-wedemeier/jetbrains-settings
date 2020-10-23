@@ -37,4 +37,7 @@
       <NestingRule child-file-suffix=".jsx.map" parent-file-suffix=".tsx" />
     </nesting-rules>
   </component>
+  <component name="UISettings">
+    <option name="MAX_LOOKUP_WIDTH2" value="817" />
+  </component>
 </application>
