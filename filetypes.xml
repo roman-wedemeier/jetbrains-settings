@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="ssh_config" type="PLAIN_TEXT" />
       <mapping pattern="test1_file" type="PLAIN_TEXT" />
+      <mapping ext="tst" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="1pif" type="PLAIN_TEXT" />
