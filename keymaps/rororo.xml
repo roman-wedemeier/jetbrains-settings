@@ -24,6 +24,7 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
+  <action id="ActivateVersionControlToolWindow" />
   <action id="AddToFavoritesPopup" />
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Alias.Rule.Remove">
@@ -271,6 +272,9 @@
   </action>
   <action id="Vcs.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Vcs.Show.Log">
+    <keyboard-shortcut first-keystroke="meta 9" />
   </action>
   <action id="XDebugger.CopyWatch" />
   <action id="XDebugger.JumpToSource">
