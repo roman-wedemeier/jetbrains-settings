@@ -1,0 +1,284 @@
+<keymap version="1" name="rororo" parent="Mac OS X 10.5+">
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift meta z" />
+  </action>
+  <action id="ActivateDockerToolWindow">
+    <keyboard-shortcut first-keystroke="meta 8" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivatePythonConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="meta 6" />
+  </action>
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="ActivateTODOToolWindow">
+    <keyboard-shortcut first-keystroke="meta 7" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="AddToFavoritesPopup" />
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
+  <action id="Arrangement.Alias.Rule.Remove">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Remove">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="ChangesView.Diff" />
+  <action id="ChooseDebugConfiguration">
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
+    <keyboard-shortcut first-keystroke="meta alt d" />
+  </action>
+  <action id="ChoosePrevSubsequentPropertyValueEditorAction" />
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+    <keyboard-shortcut first-keystroke="meta alt r" />
+  </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+    <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="meta minus" />
+    <keyboard-shortcut first-keystroke="meta number_sign" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow" />
+  <action id="Console.TableResult.EditFilterCriteria" />
+  <action id="Console.TableResult.NavigateAction">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Console.TableResult.SetDefault" />
+  <action id="DatabaseView.CopyAction" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="DecrementWindowHeight" />
+  <action id="Diff.ShowDiff" />
+  <action id="Django.RunManageTaskAction">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="DomElementsTreeView.DeleteElement">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Editor Delete">
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
+  <action id="EditorDelete">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="EditorDeleteToLineStart">
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
+  <action id="EditorDeleteToWordStart">
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+  </action>
+  <action id="EditorDeleteToWordStartInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="alt back_space" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="EditorLookupDown" />
+  <action id="EditorLookupUp" />
+  <action id="EditorNextWord" />
+  <action id="EditorNextWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="EditorNextWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="EditorNextWordWithSelection" />
+  <action id="EditorPreviousWord" />
+  <action id="EditorPreviousWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="EditorPreviousWordWithSelection" />
+  <action id="EditorScrollDown">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
+  <action id="EditorScrollUp">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="EditorStartNewLine" />
+  <action id="EditorStartNewLineBefore" />
+  <action id="EditorTextEnd">
+    <keyboard-shortcut first-keystroke="meta end" />
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorTextEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta end" />
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="EditorTextStart">
+    <keyboard-shortcut first-keystroke="meta home" />
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="EditorTextStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta home" />
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="shift meta u" />
+    <keyboard-shortcut first-keystroke="alt less" />
+  </action>
+  <action id="EditorUnSelectWord" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.GotoProject" />
+  <action id="Graph.Delete">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="Images.Editor.ZoomOut">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="IncrementWindowHeight" />
+  <action id="IpnbRunAllCellsAction">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="JupyterSelectCellAboveAction" />
+  <action id="JupyterSelectCellBelowAction" />
+  <action id="MethodDown" />
+  <action id="MethodOverloadSwitchDown" />
+  <action id="MethodOverloadSwitchUp" />
+  <action id="MethodUp" />
+  <action id="MinimizeCurrentWindow" />
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="meta m" second-keystroke="down" />
+  </action>
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="meta m" second-keystroke="right" />
+  </action>
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="meta alt back_quote" />
+    <keyboard-shortcut first-keystroke="meta less" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt tab" />
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
+  <action id="PreviousProjectWindow">
+    <keyboard-shortcut first-keystroke="shift meta alt back_quote" />
+    <keyboard-shortcut first-keystroke="shift meta less" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="RerunTests">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
+  <action id="ResetColumnsWidth" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f9" />
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="RunDashboard.RemoveConfiguration">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="RunDashboard.UngroupConfigurations">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShowContent" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="meta f2" />
+  </action>
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt home" />
+  </action>
+  <action id="ShowReformatFileDialog">
+    <keyboard-shortcut first-keystroke="shift meta alt l" />
+    <keyboard-shortcut first-keystroke="shift meta alt f" />
+  </action>
+  <action id="SmartSelect" />
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f7" />
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="shift f8" />
+    <keyboard-shortcut first-keystroke="shift f11" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
+  <action id="Switcher" />
+  <action id="TableResult.GrowSelection" />
+  <action id="UML.ZoomOut">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="Vcs.EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="XDebugger.CopyWatch" />
+  <action id="XDebugger.JumpToSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="XDebugger.RemoveWatch">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="hg4idea.QFold" />
+  <action id="openAssertEqualsDiff" />
+</keymap>
