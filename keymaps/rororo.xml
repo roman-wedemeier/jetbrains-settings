@@ -10,6 +10,7 @@
     <keyboard-shortcut first-keystroke="meta 8" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
   <action id="ActivatePythonConsoleToolWindow">
     <keyboard-shortcut first-keystroke="meta 6" />
   </action>
