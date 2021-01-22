@@ -9,6 +9,7 @@
       <mapping ext="1pif" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="types" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <removed_mapping ext="csv" approved="true" type="CSV file" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
