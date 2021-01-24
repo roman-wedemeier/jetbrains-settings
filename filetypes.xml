@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="dolibarr/Dockerfile" type="Dockerfile" />
       <mapping pattern="dockerfiles/php/Dockerfile" type="Dockerfile" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="ssh_config" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping ext="types" type="PLAIN_TEXT" />
