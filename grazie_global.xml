@@ -6,5 +6,14 @@
         <option value="German (Germany)" />
       </set>
     </option>
+    <option name="suppressingContext">
+      <SuppressingContext>
+        <option name="suppressed">
+          <set>
+            <option value="uploads are also stored" />
+          </set>
+        </option>
+      </SuppressingContext>
+    </option>
   </component>
 </application>
