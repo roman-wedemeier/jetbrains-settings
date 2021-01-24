@@ -11,6 +11,7 @@
         <option name="suppressed">
           <set>
             <option value="uploads are also stored" />
+            <option value="two named" />
           </set>
         </option>
       </SuppressingContext>
