@@ -4,12 +4,12 @@
     <extensionMap>
       <mapping pattern="dolibarr/Dockerfile" type="Dockerfile" />
       <mapping pattern="dockerfiles/php/Dockerfile" type="Dockerfile" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="ssh_config" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
-      <mapping ext="types" type="PLAIN_TEXT" />
-      <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="1pif" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="types" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <mapping ext="conf" type="nginx" />
       <removed_mapping ext="csv" approved="true" type="CSV file" />

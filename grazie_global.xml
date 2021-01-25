@@ -10,8 +10,8 @@
       <SuppressingContext>
         <option name="suppressed">
           <set>
-            <option value="uploads are also stored" />
             <option value="two named" />
+            <option value="uploads are also stored" />
           </set>
         </option>
       </SuppressingContext>
