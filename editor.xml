@@ -25,6 +25,16 @@
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="JavaScript.js.chain.hints" />
+        <option value="JavaScript.js.type.hints" />
+        <option value="JavaScript.microservices.url.path.inlay.hints" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="microservices.url.path.inlay.hints" />
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
     <pattern icon="important" useCustomColors="true" case-sensitive="true" pattern="\bTODO rw \:.*">
