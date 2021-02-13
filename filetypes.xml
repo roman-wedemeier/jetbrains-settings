@@ -6,6 +6,7 @@
       <mapping pattern="dolibarr/Dockerfile" type="Dockerfile" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="ssh_config" type="PLAIN_TEXT" />
+      <mapping pattern=".htusers" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="types" type="PLAIN_TEXT" />
       <mapping ext="tst" type="PLAIN_TEXT" />
