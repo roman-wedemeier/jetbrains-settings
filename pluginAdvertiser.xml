@@ -2365,6 +2365,11 @@
                       <FeaturePluginData displayName="JavaScript Debug" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
                     </value>
                   </entry>
+                  <entry key="JavascriptTestRunnerJasmine">
+                    <value>
+                      <FeaturePluginData displayName="Jasmine" pluginName="Jasmine" pluginId="io.pivotal.jasmine" />
+                    </value>
+                  </entry>
                   <entry key="JetRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Kotlin" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
