@@ -36,6 +36,7 @@
       <NestingRule child-file-suffix=".js.map" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".jsx" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".jsx.map" parent-file-suffix=".tsx" />
+      <NestingRule child-file-suffix=".spec.ts" parent-file-suffix=".vue" />
     </nesting-rules>
   </component>
   <component name="UISettings">
