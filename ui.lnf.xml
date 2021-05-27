@@ -38,6 +38,8 @@
     </nesting-rules>
   </component>
   <component name="UISettings">
-    <option name="FONT_SCALE" value="1.0" />
+    <option name="EDITOR_AA_TYPE" value="Greyscale" />
+    <option name="IDE_AA_TYPE" value="Greyscale" />
+    <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
   </component>
 </application>
