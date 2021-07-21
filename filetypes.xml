@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.idea;.pytest_cache;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern="crontab" type="AUTO_DETECTED" />
       <mapping pattern="dockerfiles/php/Dockerfile" type="Dockerfile" />
       <mapping pattern="dolibarr/Dockerfile" type="Dockerfile" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
