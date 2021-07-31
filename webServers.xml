@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="e3d517b8-40bf-4f56-b991-c2928a1a971b" name="raspi" url="http://pi">
-        <fileTransfer rootFolder="/home/pi/code/maerklin" accessType="SFTP" host="10.0.0.46" port="22" sshConfigId="b940342b-95e9-41e5-b90f-46397036c0db" sshConfig="raspi" authAgent="true" />
-      </webServer>
-    </option>
-  </component>
-</application>
