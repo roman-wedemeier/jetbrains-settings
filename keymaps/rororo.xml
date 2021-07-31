@@ -72,9 +72,7 @@
   </action>
   <action id="Console.TableResult.SetDefault" />
   <action id="DatabaseView.CopyAction" />
-  <action id="Debug">
-    <keyboard-shortcut first-keystroke="alt d" />
-  </action>
+  <action id="Debug" />
   <action id="DecrementWindowHeight" />
   <action id="Diff.ShowDiff" />
   <action id="Django.RunManageTaskAction">
@@ -201,6 +199,9 @@
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt tab" />
     <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
+  <action id="PhpListenDebugAction">
+    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="PreviousProjectWindow">
     <keyboard-shortcut first-keystroke="shift meta alt back_quote" />
