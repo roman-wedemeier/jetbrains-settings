@@ -77,17 +77,17 @@
     </filter>
   </component>
   <component name="XDebuggerSettings">
-    <data-views>
-      <sort-values>true</sort-values>
-      <option name="valueLookupDelay" value="200" />
-    </data-views>
-    <general>
-      <run-to-cursor-gesture>false</run-to-cursor-gesture>
-    </general>
+    <data-views />
+    <general />
     <debuggers>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
+        </configuration>
+      </debugger>
+      <debugger id="kotlin_debugger">
+        <configuration>
+          <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
         </configuration>
       </debugger>
     </debuggers>

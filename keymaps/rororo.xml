@@ -10,7 +10,9 @@
     <keyboard-shortcut first-keystroke="meta 8" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
-  <action id="ActivateFindToolWindow" />
+  <action id="ActivatePythonConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="meta 6" />
+  </action>
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
@@ -20,11 +22,6 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 3" />
-  </action>
-  <action id="ActivateVersionControlToolWindow">
-    <keyboard-shortcut first-keystroke="meta 9" />
-    <keyboard-shortcut first-keystroke="shift meta 9" />
-    <keyboard-shortcut first-keystroke="meta 6" />
   </action>
   <action id="AddToFavoritesPopup" />
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
@@ -43,6 +40,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt d" />
     <keyboard-shortcut first-keystroke="meta alt d" />
   </action>
+  <action id="ChoosePrevSubsequentPropertyValueEditorAction" />
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
     <keyboard-shortcut first-keystroke="meta alt r" />
@@ -66,6 +64,7 @@
     <keyboard-shortcut first-keystroke="meta minus" />
     <keyboard-shortcut first-keystroke="meta number_sign" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.EditFilterCriteria" />
   <action id="Console.TableResult.NavigateAction">
@@ -80,9 +79,6 @@
   <action id="Diff.ShowDiff" />
   <action id="Django.RunManageTaskAction">
     <keyboard-shortcut first-keystroke="ctrl r" />
-  </action>
-  <action id="Docker.RemoteServers.DownComposeApp">
-    <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
   <action id="DomElementsTreeView.DeleteElement">
     <keyboard-shortcut first-keystroke="delete" />
@@ -115,6 +111,8 @@
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
+  <action id="EditorLookupDown" />
+  <action id="EditorLookupUp" />
   <action id="EditorNextWord" />
   <action id="EditorNextWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="alt right" />
@@ -131,6 +129,12 @@
     <keyboard-shortcut first-keystroke="shift alt left" />
   </action>
   <action id="EditorPreviousWordWithSelection" />
+  <action id="EditorScrollDown">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
+  <action id="EditorScrollUp">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
   <action id="EditorSelectWord" />
   <action id="EditorStartNewLine" />
   <action id="EditorStartNewLineBefore" />
@@ -157,9 +161,6 @@
   <action id="EditorUnSelectWord" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoProject" />
-  <action id="FileChooser.LightEditGotoOpenedFile">
-    <keyboard-shortcut first-keystroke="alt 1" />
-  </action>
   <action id="Graph.Delete">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
@@ -168,8 +169,15 @@
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="IncrementWindowHeight" />
+  <action id="IpnbRunAllCellsAction">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="JupyterSelectCellAboveAction" />
+  <action id="JupyterSelectCellBelowAction" />
+  <action id="MethodDown" />
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
+  <action id="MethodUp" />
   <action id="MinimizeCurrentWindow" />
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="meta m" second-keystroke="down" />
@@ -186,9 +194,17 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="meta m" second-keystroke="right" />
   </action>
-  <action id="NextWindow">
-    <keyboard-shortcut first-keystroke="meta back_quote" />
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="meta alt back_quote" />
     <keyboard-shortcut first-keystroke="meta less" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt tab" />
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
+  <action id="PreviousProjectWindow">
+    <keyboard-shortcut first-keystroke="shift meta alt back_quote" />
+    <keyboard-shortcut first-keystroke="shift meta less" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
@@ -220,6 +236,7 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="SendEOF" />
+  <action id="ShowContent" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="meta f2" />
@@ -246,6 +263,7 @@
   <action id="Stop">
     <keyboard-shortcut first-keystroke="shift alt d" />
   </action>
+  <action id="Switcher" />
   <action id="TableResult.GrowSelection" />
   <action id="UML.ZoomOut">
     <keyboard-shortcut first-keystroke="meta subtract" />

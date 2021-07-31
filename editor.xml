@@ -4,47 +4,7 @@
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
   <component name="EditorSettings">
-    <option name="languageBreadcrumbsMap">
-      <map>
-        <entry key="CSS" value="true" />
-        <entry key="HTML" value="true" />
-        <entry key="Haml" value="true" />
-        <entry key="JSON" value="true" />
-        <entry key="JavaScript" value="true" />
-        <entry key="LESS" value="true" />
-        <entry key="Python" value="true" />
-        <entry key="SASS" value="true" />
-        <entry key="SCSS" value="true" />
-        <entry key="Stylus" value="true" />
-        <entry key="TypeScript" value="true" />
-        <entry key="XHTML" value="true" />
-        <entry key="XML" value="true" />
-        <entry key="yaml" value="true" />
-      </map>
-    </option>
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
-    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
-  </component>
-  <component name="InlayHintsSettings">
-    <option name="disabledHintProviderIds">
-      <set>
-        <option value="JavaScript.js.chain.hints" />
-        <option value="JavaScript.js.type.hints" />
-        <option value="JavaScript.microservices.url.path.inlay.hints" />
-      </set>
-    </option>
-    <option name="lastViewedProviderKeyId" value="microservices.url.path.inlay.hints" />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\b(todo|fixme)\b.*" />
-    <pattern icon="important" useCustomColors="true" case-sensitive="true" pattern="\bTODO rw \:.*">
-      <option name="FOREGROUND" value="c0159b" />
-      <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="977ab" />
-    </pattern>
-    <filter name="RomanTODO">
-      <pattern index="1" />
-    </filter>
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
   </component>
   <component name="XmlFoldingSettings">
     <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />

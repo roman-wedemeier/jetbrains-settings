@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
@@ -12,16 +12,13 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
+    <mask>*.php</mask>
     <mask>manage.py</mask>
-    <mask>*.html</mask>
     <mask>*.scss</mask>
     <mask>*.py</mask>
+    <mask>*.js</mask>
     <mask>buffer.js</mask>
     <mask>!package-lock*</mask>
-    <mask>*.lang</mask>
-    <mask>modProductCustomerPriceNumber.class.php</mask>
-    <mask>*.js</mask>
-    <mask>*.tpl</mask>
-    <mask>*.php</mask>
+    <mask>*.html</mask>
   </component>
 </application>
