@@ -30,11 +30,16 @@
       <NestingRule child-file-suffix=".d.ts" parent-file-suffix=".ts" />
       <NestingRule child-file-suffix=".js" parent-file-suffix=".ts" />
       <NestingRule child-file-suffix=".js.map" parent-file-suffix=".ts" />
+      <NestingRule child-file-suffix=".test.ts" parent-file-suffix=".ts" />
       <NestingRule child-file-suffix=".d.ts" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".js" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".js.map" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".jsx" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".jsx.map" parent-file-suffix=".tsx" />
+      <NestingRule child-file-suffix=".spec.ts" parent-file-suffix=".vue" />
     </nesting-rules>
+  </component>
+  <component name="UISettings">
+    <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
   </component>
 </application>
