@@ -1,6 +1,6 @@
 <application>
   <component name="NodeJSRemoteInterpreters">
-    <interpreter node-remote-interpreter="docker-compose://[/Users/roman/projects/coin_server_node/docker-compose.yml]:services/js" INTERPRETER_PATH="js" HELPERS_PATH=".webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" VERSION="" OUTDATED_ID="" DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="services" DOCKER_REMOTE_PROJECT_PATH="/opt/project">
+    <interpreter node-remote-interpreter="docker-compose://[/Users/roman/projects/coin_server_node/docker-compose.yml]:services/node" INTERPRETER_PATH="node" HELPERS_PATH=".webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" VERSION="" OUTDATED_ID="" DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="services" DOCKER_REMOTE_PROJECT_PATH="/opt/project">
       <PathMappingSettings>
         <option name="pathMappings">
           <list>
