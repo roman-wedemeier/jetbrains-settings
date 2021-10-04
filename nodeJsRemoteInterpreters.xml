@@ -1,6 +1,17 @@
 <application>
   <component name="NodeJSRemoteInterpreters">
-    <interpreter node-remote-interpreter="docker://webstudy_2_web:latest/node" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="webstudy_2_web:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="node" HELPERS_PATH=".webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" VERSION="" />
-    <interpreter node-remote-interpreter="docker://webstudy_dev:latest/node" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="webstudy_dev:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="node" HELPERS_PATH=".webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" VERSION="" />
+    <interpreter node-remote-interpreter="docker-compose://[/Users/roman/projects/coin_server_node/docker-compose.yml]:services/js" INTERPRETER_PATH="js" HELPERS_PATH=".webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" VERSION="" OUTDATED_ID="" DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="services" DOCKER_REMOTE_PROJECT_PATH="/opt/project">
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list>
+            <mapping local-root="$USER_HOME$/projects/coin_server_node" remote-root="/opt/project" />
+          </list>
+        </option>
+      </PathMappingSettings>
+      <dockerComposeConfigurationPaths>
+        <item value="$USER_HOME$/projects/coin_server_node/docker-compose.yml" />
+      </dockerComposeConfigurationPaths>
+      <envs />
+    </interpreter>
   </component>
 </application>
