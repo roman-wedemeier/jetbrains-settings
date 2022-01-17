@@ -6,12 +6,12 @@
   <component name="EditorSettings">
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
   </component>
-  <component name="JavaCodeFoldingSettings">
-    <option name="collapseConstructorGenericParameters" value="false" />
-    <option name="collapseI18nMessages" value="false" />
-    <option name="collapseLambdas" value="false" />
-    <option name="collapseOneLineMethods" value="false" />
-    <option name="collapseSuppressWarnings" value="false" />
+  <component name="InlayHintsSettings">
+    <option name="enabled" value="false" />
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
+  <component name="JSEditorOptions">
+    <option name="ESCAPE_PASTED_TEXT" value="false" />
   </component>
   <component name="XmlFoldingSettings">
     <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
