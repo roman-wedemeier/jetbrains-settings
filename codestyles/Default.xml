@@ -24,6 +24,9 @@
   <TypeScriptCodeStyleSettings version="0">
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </TypeScriptCodeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="RIGHT_MARGIN" value="100" />
+  </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="RIGHT_MARGIN" value="80" />
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
