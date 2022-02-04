@@ -67,6 +67,9 @@
     <keyboard-shortcut first-keystroke="meta number_sign" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="CompileProject">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.EditFilterCriteria" />
   <action id="Console.TableResult.NavigateAction">
@@ -120,6 +123,10 @@
   <action id="EditorDuplicate" />
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="meta right" />
   </action>
   <action id="EditorLookupDown" />
   <action id="EditorLookupUp" />
