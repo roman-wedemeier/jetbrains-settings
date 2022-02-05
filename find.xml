@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project 'coin_server'" />
     <option name="defaultScopeName" value="Project 'coin_server'" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'coin_server'" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
