@@ -7,6 +7,10 @@
     <option name="ANNOTATION_PARAMETER_WRAP" value="5" />
     <option name="ALIGN_MULTILINE_ANNOTATION_PARAMETERS" value="true" />
     <option name="SPACE_BEFORE_COLON_IN_FOREACH" value="false" />
+    <option name="RECORD_COMPONENTS_WRAP" value="5" />
+    <option name="ALIGN_MULTILINE_RECORDS" value="false" />
+    <option name="NEW_LINE_AFTER_LPAREN_IN_RECORD_HEADER" value="true" />
+    <option name="RPAREN_ON_NEW_LINE_IN_RECORD_HEADER" value="true" />
   </JavaCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
