@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.d.ts" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -21,5 +22,6 @@
     <mask>!package-lock*</mask>
     <mask>*.html</mask>
     <mask>*.json</mask>
+    <mask>*.d.ts</mask>
   </component>
 </application>
