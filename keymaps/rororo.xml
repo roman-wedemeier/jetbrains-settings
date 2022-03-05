@@ -67,6 +67,9 @@
     <keyboard-shortcut first-keystroke="meta number_sign" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="CompileProject">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.EditFilterCriteria" />
   <action id="Console.TableResult.NavigateAction">
@@ -80,6 +83,9 @@
   <action id="Django.RunManageTaskAction">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="Docker.RemoteServers.StopContainer">
+    <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
   <action id="DomElementsTreeView.DeleteElement">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
@@ -90,6 +96,13 @@
   </action>
   <action id="Editor Delete">
     <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
+  <action id="EditorCreateRectangularSelectionOnMouseDrag">
+    <mouse-shortcut keystroke="button2" />
+    <mouse-shortcut keystroke="shift alt button1" />
   </action>
   <action id="EditorDelete">
     <keyboard-shortcut first-keystroke="delete" />
@@ -110,6 +123,10 @@
   <action id="EditorDuplicate" />
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="meta right" />
   </action>
   <action id="EditorLookupDown" />
   <action id="EditorLookupUp" />
@@ -208,6 +225,9 @@
   <action id="PreviousProjectWindow">
     <keyboard-shortcut first-keystroke="shift meta alt back_quote" />
     <keyboard-shortcut first-keystroke="shift meta less" />
+  </action>
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="meta alt f8" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
