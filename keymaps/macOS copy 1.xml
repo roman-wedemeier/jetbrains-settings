@@ -16,7 +16,6 @@
   <action id="Console.Jdbc.Terminate" />
   <action id="DatabaseView.CloseConnectionAction" />
   <action id="Debug">
-    <keyboard-shortcut first-keystroke="ctrl d" />
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="Diff.ShowDiff" />
