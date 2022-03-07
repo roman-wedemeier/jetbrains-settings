@@ -36,9 +36,8 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="meta m" second-keystroke="right" />
   </action>
-  <action id="QuickImplementations">
-    <keyboard-shortcut first-keystroke="alt space" />
-    <keyboard-shortcut first-keystroke="meta y" />
+  <action id="ProblemsView.QuickFixes">
+    <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="meta f2" />
   </action>
   <action id="QuickJavaDoc">
