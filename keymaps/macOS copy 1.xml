@@ -28,6 +28,13 @@
   <action id="Docker.RemoteServers.StopComposeService" />
   <action id="Docker.RemoteServers.StopContainer" />
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="shift alt button1" />
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
+  <action id="EditorCreateRectangularSelectionOnMouseDrag">
+    <mouse-shortcut keystroke="button2" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta back_space" />
     <keyboard-shortcut first-keystroke="meta d" />
@@ -76,6 +83,9 @@
   </action>
   <action id="ProblemsView.QuickFixes">
     <keyboard-shortcut first-keystroke="meta f2" />
+  </action>
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="meta alt f8" />
   </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="ctrl j" />
