@@ -1,0 +1,61 @@
+<keymap version="1" name="macOS copy 1" parent="Mac OS X 10.5+">
+  <action id="ActivateBookmarksToolWindow" />
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="meta 7" />
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.Jdbc.Terminate" />
+  <action id="DatabaseView.CloseConnectionAction" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="Diff.ShowDiff" />
+  <action id="Docker.RemoteServers.StopComposeService" />
+  <action id="Docker.RemoteServers.StopContainer" />
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta back_space" />
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.GotoModule" />
+  <action id="FileChooser.GotoProject" />
+  <action id="GuiDesigner.Duplicate" />
+  <action id="MinimizeCurrentWindow" />
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="meta m" second-keystroke="down" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="meta m" second-keystroke="right" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="alt space" />
+    <keyboard-shortcut first-keystroke="meta y" />
+    <keyboard-shortcut first-keystroke="meta f2" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="RunDashboard.Stop" />
+  <action id="SendEOF" />
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
+  <action id="XDebugger.CopyWatch" />
+  <action id="hg4idea.QFold" />
+  <action id="openAssertEqualsDiff" />
+</keymap>
