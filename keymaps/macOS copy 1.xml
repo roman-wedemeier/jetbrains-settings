@@ -14,12 +14,7 @@
   </action>
   <action id="CompareTwoFiles" />
   <action id="Console.Jdbc.Terminate" />
-  <action id="Console.TableResult.EditValue">
-    <keyboard-shortcut first-keystroke="f2" />
-    <keyboard-shortcut first-keystroke="enter" />
-  </action>
   <action id="DatabaseView.CloseConnectionAction" />
-  <action id="DatabaseView.Tools" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="ctrl d" />
     <keyboard-shortcut first-keystroke="alt d" />
@@ -46,8 +41,6 @@
   </action>
   <action id="ProblemsView.QuickFixes">
     <keyboard-shortcut first-keystroke="meta f2" />
-    <keyboard-shortcut first-keystroke="meta alt f2" />
-    <keyboard-shortcut first-keystroke="alt enter" />
   </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="ctrl j" />
@@ -60,8 +53,6 @@
   <action id="RunDashboard.CopyConfiguration" />
   <action id="RunDashboard.Stop" />
   <action id="SendEOF" />
-  <action id="SetShortcutAction" />
-  <action id="ShowIntentionActions" />
   <action id="Stop">
     <keyboard-shortcut first-keystroke="shift alt d" />
   </action>
