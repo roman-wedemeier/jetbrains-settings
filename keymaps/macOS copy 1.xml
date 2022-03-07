@@ -9,6 +9,11 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
@@ -27,13 +32,31 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="EditorDuplicate" />
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="EditorUnSelectWord" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
   <action id="GuiDesigner.Duplicate" />
+  <action id="GuiDesigner.ShrinkSelection" />
+  <action id="List-selectFirstRow" />
+  <action id="List-selectLastRow" />
+  <action id="List-selectLastRowExtendSelection" />
+  <action id="MethodOverloadSwitchDown" />
+  <action id="MethodOverloadSwitchUp" />
   <action id="MinimizeCurrentWindow" />
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="meta m" second-keystroke="down" />
+  </action>
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+    <keyboard-shortcut first-keystroke="alt up" />
   </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="meta m" second-keystroke="right" />
@@ -44,6 +67,12 @@
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="ctrl j" />
     <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="RerunTests">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl r" />
@@ -56,10 +85,22 @@
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="meta f2" />
   </action>
+  <action id="ShowSearchHistory" />
+  <action id="SmartSelect" />
+  <action id="SmartUnSelect" />
   <action id="Stop">
     <keyboard-shortcut first-keystroke="shift alt d" />
   </action>
+  <action id="TableResult.GrowSelection" />
+  <action id="TableResult.ShrinkSelection" />
+  <action id="UsageView.Rerun">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="UsageView.ShowRecentFindUsages" />
   <action id="XDebugger.CopyWatch" />
+  <action id="XDebugger.MoveWatchDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
   <action id="hg4idea.QFold" />
   <action id="openAssertEqualsDiff" />
 </keymap>
