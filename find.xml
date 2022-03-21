@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -10,7 +13,6 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.php</mask>
     <mask>manage.py</mask>
     <mask>*.scss</mask>
     <mask>*.py</mask>
@@ -21,5 +23,6 @@
     <mask>*.json</mask>
     <mask>*.d.ts</mask>
     <mask>Bootstrap.php</mask>
+    <mask>*.php</mask>
   </component>
 </application>
