@@ -19,7 +19,7 @@
     <mask>!package-lock*</mask>
     <mask>*.html</mask>
     <mask>*.d.ts</mask>
-    <mask>*.html.twig</mask>
     <mask>*.json</mask>
+    <mask>*.html.twig</mask>
   </component>
 </application>
