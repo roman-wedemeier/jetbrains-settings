@@ -20,5 +20,6 @@
     <mask>*.html</mask>
     <mask>*.json</mask>
     <mask>*.d.ts</mask>
+    <mask>*.html.twig</mask>
   </component>
 </application>
