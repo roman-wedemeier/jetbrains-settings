@@ -18,8 +18,8 @@
     <mask>buffer.js</mask>
     <mask>!package-lock*</mask>
     <mask>*.html</mask>
-    <mask>*.json</mask>
     <mask>*.d.ts</mask>
     <mask>*.html.twig</mask>
+    <mask>*.json</mask>
   </component>
 </application>
