@@ -66,7 +66,6 @@
     <keyboard-shortcut first-keystroke="meta minus" />
     <keyboard-shortcut first-keystroke="meta number_sign" />
   </action>
-  <action id="CompareTwoFiles" />
   <action id="CompileProject">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
@@ -178,6 +177,7 @@
   <action id="EditorUnSelectWord" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoProject" />
+  <action id="GotoTest" />
   <action id="Graph.Delete">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
@@ -237,6 +237,9 @@
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
@@ -263,6 +266,7 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="SendEOF" />
+  <action id="ServiceView.ShowServices" />
   <action id="ShowContent" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />

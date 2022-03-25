@@ -1,7 +1,4 @@
 <application>
-  <component name="KeyboardSettings">
-    <option name="enabled" value="true" />
-  </component>
   <component name="ProjectViewFileNesting">
     <nesting-rules>
       <NestingRule child-file-suffix=".js" parent-file-suffix=".coffee" />
@@ -43,6 +40,8 @@
     </nesting-rules>
   </component>
   <component name="UISettings">
+    <option name="EDITOR_AA_TYPE" value="Greyscale" />
+    <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
   </component>
 </application>

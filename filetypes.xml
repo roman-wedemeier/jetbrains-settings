@@ -4,12 +4,12 @@
     <extensionMap>
       <mapping pattern="ssh_config" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="1pif" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="csv" approved="true" type="CSV" />
+      <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping ext="tsv" approved="true" type="TSV" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <mapping ext="blend" type="Python" />
       <mapping ext="gradle.kts" type="Kotlin" />
