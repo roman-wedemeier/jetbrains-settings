@@ -81,6 +81,8 @@
     <keyboard-shortcut first-keystroke="shift meta circumflex" />
   </action>
   <action id="DecrementWindowHeight" />
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="Diff.ShowDiff" />
   <action id="Django.RunManageTaskAction">
     <keyboard-shortcut first-keystroke="ctrl r" />
@@ -214,6 +216,7 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="meta m" second-keystroke="right" />
   </action>
+  <action id="NextEditorTab" />
   <action id="NextProjectWindow">
     <keyboard-shortcut first-keystroke="meta alt back_quote" />
     <keyboard-shortcut first-keystroke="meta less" />
@@ -225,6 +228,7 @@
   <action id="PhpListenDebugAction">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="PreviousEditorTab" />
   <action id="PreviousProjectWindow">
     <keyboard-shortcut first-keystroke="shift meta alt back_quote" />
     <keyboard-shortcut first-keystroke="shift meta less" />
@@ -296,6 +300,12 @@
   </action>
   <action id="Stop">
     <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
+  <action id="StretchSplitToLeft">
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
+  </action>
+  <action id="StretchSplitToRight">
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
   </action>
   <action id="Switcher" />
   <action id="TableResult.GrowSelection" />
