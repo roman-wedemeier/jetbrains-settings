@@ -77,6 +77,9 @@
   <action id="Console.TableResult.SetDefault" />
   <action id="DatabaseView.CopyAction" />
   <action id="Debug" />
+  <action id="Debugger.RestoreBreakpoint">
+    <keyboard-shortcut first-keystroke="shift meta circumflex" />
+  </action>
   <action id="DecrementWindowHeight" />
   <action id="Diff.ShowDiff" />
   <action id="Django.RunManageTaskAction">
@@ -296,6 +299,13 @@
   </action>
   <action id="Switcher" />
   <action id="TableResult.GrowSelection" />
+  <action id="ToggleBreakpointEnabled">
+    <keyboard-shortcut first-keystroke="alt circumflex" />
+  </action>
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="meta f8" />
+    <keyboard-shortcut first-keystroke="meta circumflex" />
+  </action>
   <action id="UML.ZoomOut">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
