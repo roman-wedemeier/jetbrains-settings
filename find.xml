@@ -10,7 +10,6 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.php</mask>
     <mask>manage.py</mask>
     <mask>*.scss</mask>
     <mask>*.py</mask>
@@ -23,6 +22,7 @@
     <mask>*.json</mask>
     <mask>*.html.twig</mask>
     <mask>*.xml</mask>
+    <mask>*.php</mask>
     <mask>*.php</mask>
   </component>
 </application>
