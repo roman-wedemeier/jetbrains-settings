@@ -254,7 +254,9 @@
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
   <action id="ResetColumnsWidth" />
-  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowDown">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
   <action id="ResizeToolWindowLeft">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <keyboard-shortcut first-keystroke="shift ctrl left" />
@@ -263,7 +265,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt right" />
     <keyboard-shortcut first-keystroke="shift ctrl right" />
   </action>
-  <action id="ResizeToolWindowUp" />
+  <action id="ResizeToolWindowUp">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
     <keyboard-shortcut first-keystroke="f8" />
