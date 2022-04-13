@@ -4,6 +4,9 @@
       <sshConfig authType="OPEN_SSH" host="pre.melag.com" id="23130d9d-8b5a-491d-bfd8-a83853c95939" port="22" customName="pre.melag.com" nameFormat="CUSTOM" username="c738654live" useOpenSSHConfig="true">
         <option name="customName" value="pre.melag.com" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="stage.melag.com" id="5a33a4c8-400d-4d3c-af59-84c252ace00d" port="22" customName="stage.melag.com" nameFormat="CUSTOM" username="c738654stage" useOpenSSHConfig="true">
+        <option name="customName" value="stage.melag.com" />
+      </sshConfig>
     </configs>
   </component>
 </application>
