@@ -20,9 +20,9 @@
     <mask>*.json</mask>
     <mask>*.d.ts</mask>
     <mask>*.json</mask>
-    <mask>*.php</mask>
     <mask>*.html.twig</mask>
     <mask>*.xml</mask>
+    <mask>*.php</mask>
     <mask>*.php</mask>
   </component>
 </application>
