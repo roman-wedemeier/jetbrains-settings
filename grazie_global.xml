@@ -4,6 +4,7 @@
       <set>
         <option value="German (Germany)" />
         <option value="English (US)" />
+        <option value="French" />
       </set>
     </option>
     <option name="suppressingContext">
