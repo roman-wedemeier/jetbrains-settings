@@ -10,6 +10,7 @@
       <mapping pattern="ssh_config" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="1pif" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
