@@ -10,6 +10,9 @@
       <sshConfig authType="OPEN_SSH" host="dev.melag.com" id="7da5927b-fb10-4c4c-acd4-5f58f40b0bfa" port="22" customName="dev.melag.com" nameFormat="CUSTOM" username="c738654dev" useOpenSSHConfig="true">
         <option name="customName" value="dev.melag.com" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="pocpro.brandung-dev.de" id="43aa3de6-49dc-4e94-a778-e350bc9e7f9a" port="22" customName="pocpro" nameFormat="CUSTOM" username="c199920pocpro" useOpenSSHConfig="true">
+        <option name="customName" value="pocpro" />
+      </sshConfig>
     </configs>
   </component>
 </application>
