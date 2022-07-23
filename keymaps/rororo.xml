@@ -6,6 +6,9 @@
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift meta z" />
   </action>
+  <action id="ActivateBookmarksToolWindow">
+    <keyboard-shortcut first-keystroke="meta f3" />
+  </action>
   <action id="ActivateDockerToolWindow">
     <keyboard-shortcut first-keystroke="meta 8" />
   </action>
@@ -82,7 +85,12 @@
   <action id="Console.TableResult.SetDefault" />
   <action id="DatabaseView.CopyAction" />
   <action id="Debug" />
+  <action id="Debugger.RestoreBreakpoint">
+    <keyboard-shortcut first-keystroke="shift meta circumflex" />
+  </action>
   <action id="DecrementWindowHeight" />
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="Diff.ShowDiff" />
   <action id="Django.RunManageTaskAction">
     <keyboard-shortcut first-keystroke="ctrl r" />
@@ -182,6 +190,7 @@
   <action id="EditorUnSelectWord" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoProject" />
+  <action id="GotoTest" />
   <action id="Graph.Delete">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
@@ -215,6 +224,7 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="meta m" second-keystroke="right" />
   </action>
+  <action id="NextEditorTab" />
   <action id="NextProjectWindow">
     <keyboard-shortcut first-keystroke="meta alt back_quote" />
     <keyboard-shortcut first-keystroke="meta less" />
@@ -226,9 +236,14 @@
   <action id="PhpListenDebugAction">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="PreviousEditorTab" />
   <action id="PreviousProjectWindow">
     <keyboard-shortcut first-keystroke="shift meta alt back_quote" />
     <keyboard-shortcut first-keystroke="shift meta less" />
+  </action>
+  <action id="PublishGroup.UploadTo">
+    <keyboard-shortcut first-keystroke="shift meta alt x" />
+    <keyboard-shortcut first-keystroke="alt x" />
   </action>
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="meta alt f8" />
@@ -237,6 +252,9 @@
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
@@ -244,8 +262,20 @@
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
   <action id="ResetColumnsWidth" />
-  <action id="ResizeToolWindowDown" />
-  <action id="ResizeToolWindowUp" />
+  <action id="ResizeToolWindowDown">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="ResizeToolWindowLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
+  </action>
+  <action id="ResizeToolWindowRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
+  </action>
+  <action id="ResizeToolWindowUp">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
     <keyboard-shortcut first-keystroke="f8" />
@@ -263,6 +293,8 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="SendEOF" />
+  <action id="ServiceView.ShowServices" />
+  <action id="ShowBookmarks" />
   <action id="ShowContent" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
@@ -290,8 +322,21 @@
   <action id="Stop">
     <keyboard-shortcut first-keystroke="shift alt d" />
   </action>
+  <action id="StretchSplitToLeft">
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
+  </action>
+  <action id="StretchSplitToRight">
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
+  </action>
   <action id="Switcher" />
   <action id="TableResult.GrowSelection" />
+  <action id="ToggleBreakpointEnabled">
+    <keyboard-shortcut first-keystroke="alt circumflex" />
+  </action>
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="meta f8" />
+    <keyboard-shortcut first-keystroke="meta circumflex" />
+  </action>
   <action id="UML.ZoomOut">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
