@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -20,9 +21,9 @@
     <mask>*.json</mask>
     <mask>*.xml</mask>
     <mask>*.html.twig</mask>
-    <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.php</mask>
     <mask>Migration*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
