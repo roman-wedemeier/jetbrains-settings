@@ -1,5 +1,8 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <resource url="http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" location="$USER_HOME$/Library/Caches/PyCharm2019.3/extResources/2889bd79_svg11.dtd" />
+    <resource url="https://raw.githubusercontent.com/shopware/platform/master/src/Core/System/SystemConfig/Schema/config.xsd" location="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2021.3/extResources/d71aa3af_config.xsd" />
+    <resource url="https://raw.githubusercontent.com/shopware/platform/trunk/src/Core/System/SystemConfig/Schema/config.xsd" location="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2021.3/extResources/213f0d29_config.xsd" />
+    <resource url="https://schema.phpunit.de/9.5/phpunit.xsd" location="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2021.3/extResources/c55a6d2a_phpunit.xsd" />
   </component>
 </application>
