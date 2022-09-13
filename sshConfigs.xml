@@ -16,6 +16,9 @@
       <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="dev.crossjeans.de" id="f7856211-88ac-4b84-a4ef-97bf9ce62e5b" port="22" customName="dev.crossjeans.de" nameFormat="CUSTOM" username="c244325dev" useOpenSSHConfig="true">
         <option name="customName" value="dev.crossjeans.de" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="crossjeans.de" id="9b42b3a9-9ca9-46e0-b925-b5be3b1f9f20" port="22" customName="crossjeans.de" nameFormat="CUSTOM" username="c244325brandung" useOpenSSHConfig="true">
+        <option name="customName" value="crossjeans.de" />
+      </sshConfig>
     </configs>
   </component>
 </application>
