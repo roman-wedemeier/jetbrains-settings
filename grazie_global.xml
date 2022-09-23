@@ -2,8 +2,8 @@
   <component name="GraziConfig">
     <option name="enabledLanguages">
       <set>
-        <option value="German (Germany)" />
         <option value="English (US)" />
+        <option value="German (Germany)" />
         <option value="French" />
       </set>
     </option>
@@ -12,6 +12,7 @@
         <option name="suppressed">
           <set>
             <option value="github" />
+            <option value="Live" />
           </set>
         </option>
       </SuppressingContext>
