@@ -19,10 +19,14 @@
     <mask>*.d.ts</mask>
     <mask>*.json</mask>
     <mask>*.xml</mask>
-    <mask>*.html.twig</mask>
-    <mask>*.js</mask>
-    <mask>*.php</mask>
-    <mask>*.php</mask>
     <mask>Migration*.php</mask>
+    <mask>*Productdefinition.php</mask>
+    <mask>*.html.twig</mask>
+    <mask>list.tpl</mask>
+    <mask>*subscriber.php</mask>
+    <mask>*.php</mask>
+    <mask>*.php</mask>
+    <mask>*.tpl</mask>
+    <mask>*.js</mask>
   </component>
 </application>

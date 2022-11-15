@@ -343,6 +343,9 @@
   <action id="Vcs.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="Vcs.RevertSelectedChanges">
+    <keyboard-shortcut first-keystroke="shift underscore" />
+  </action>
   <action id="Vcs.Show.Log">
     <keyboard-shortcut first-keystroke="meta 9" />
   </action>
