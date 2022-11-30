@@ -69,7 +69,9 @@
     <keyboard-shortcut first-keystroke="meta minus" />
     <keyboard-shortcut first-keystroke="meta number_sign" />
   </action>
-  <action id="CompareTwoFiles" />
+  <action id="CompareTwoFiles">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="meta f9" />
     <keyboard-shortcut first-keystroke="meta alt s" />

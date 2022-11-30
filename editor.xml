@@ -8,6 +8,7 @@
   </component>
   <component name="EditorSettings">
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="RENAME_VARIABLES_INPLACE" value="false" />
   </component>
   <component name="InlayHintsSettings">
@@ -49,6 +50,9 @@
     <option name="collapseLambdas" value="false" />
     <option name="collapseOneLineMethods" value="false" />
     <option name="collapseSuppressWarnings" value="false" />
+  </component>
+  <component name="PhpCodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
   <component name="XmlFoldingSettings">
     <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
