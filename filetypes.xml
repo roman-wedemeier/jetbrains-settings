@@ -5,6 +5,7 @@
       <mapping pattern="test1234" type="AUTO_DETECTED" />
       <mapping pattern="captain-definition" type="JSON" />
       <mapping pattern="ci" type="PHP" />
+      <mapping pattern="composer" type="PHP" />
       <mapping pattern="ssh_config" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
