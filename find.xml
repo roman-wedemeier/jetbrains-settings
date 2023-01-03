@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -14,7 +15,6 @@
     <mask>*.py</mask>
     <mask>buffer.js</mask>
     <mask>!package-lock*</mask>
-    <mask>*.html</mask>
     <mask>*.d.ts</mask>
     <mask>Migration*.php</mask>
     <mask>*Productdefinition.php</mask>
@@ -30,5 +30,6 @@
     <mask>services.xml</mask>
     <mask>*.json</mask>
     <mask>*.json</mask>
+    <mask>*.html</mask>
   </component>
 </application>
