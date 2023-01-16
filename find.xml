@@ -22,7 +22,6 @@
     <mask>list.tpl</mask>
     <mask>*subscriber.php</mask>
     <mask>*.tpl</mask>
-    <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>config.xml</mask>
     <mask>*.php</mask>
@@ -32,5 +31,6 @@
     <mask>*.json</mask>
     <mask>*.json</mask>
     <mask>*.html.twig</mask>
+    <mask>*.js</mask>
   </component>
 </application>
