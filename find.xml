@@ -24,7 +24,6 @@
     <mask>*.tpl</mask>
     <mask>*.xml</mask>
     <mask>config.xml</mask>
-    <mask>services.xml</mask>
     <mask>*.html</mask>
     <mask>*.json</mask>
     <mask>*.json</mask>
@@ -32,5 +31,6 @@
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.php</mask>
+    <mask>services.xml</mask>
   </component>
 </application>
