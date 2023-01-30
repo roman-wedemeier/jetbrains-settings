@@ -5,6 +5,7 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*test.php" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -32,5 +33,6 @@
     <mask>*.php</mask>
     <mask>*.php</mask>
     <mask>services.xml</mask>
+    <mask>*test.php</mask>
   </component>
 </application>
