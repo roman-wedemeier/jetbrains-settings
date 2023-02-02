@@ -6,6 +6,7 @@
       <mapping pattern="captain-definition" type="JSON" />
       <mapping pattern="ci" type="PHP" />
       <mapping pattern="composer" type="PHP" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="ssh_config" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
