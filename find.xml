@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="preserveCase" value="true" />
+    <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
@@ -14,22 +16,22 @@
     <mask>*.py</mask>
     <mask>buffer.js</mask>
     <mask>!package-lock*</mask>
-    <mask>*.html</mask>
-    <mask>*.json</mask>
     <mask>*.d.ts</mask>
-    <mask>*.json</mask>
     <mask>Migration*.php</mask>
     <mask>*Productdefinition.php</mask>
-    <mask>*.html.twig</mask>
     <mask>list.tpl</mask>
     <mask>*subscriber.php</mask>
     <mask>*.tpl</mask>
-    <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>config.xml</mask>
-    <mask>*.php</mask>
+    <mask>*.html</mask>
+    <mask>*.json</mask>
+    <mask>*.json</mask>
+    <mask>*.html.twig</mask>
+    <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>services.xml</mask>
-    <mask>mod.lua</mask>
+    <mask>*test.php</mask>
+    <mask>*.php</mask>
   </component>
 </application>

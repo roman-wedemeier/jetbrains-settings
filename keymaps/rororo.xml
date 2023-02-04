@@ -204,6 +204,7 @@
   <action id="IpnbRunAllCellsAction">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="JumpToLastWindow" />
   <action id="JupyterSelectCellAboveAction" />
   <action id="JupyterSelectCellBelowAction" />
   <action id="MethodDown" />
@@ -317,6 +318,7 @@
   <action id="StepOut">
     <keyboard-shortcut first-keystroke="shift f8" />
     <keyboard-shortcut first-keystroke="shift f11" />
+    <keyboard-shortcut first-keystroke="f12" />
   </action>
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="f10" />
