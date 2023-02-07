@@ -3,8 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="preserveCase" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -29,9 +32,9 @@
     <mask>*.json</mask>
     <mask>*.html.twig</mask>
     <mask>*.js</mask>
-    <mask>*.php</mask>
     <mask>services.xml</mask>
     <mask>*test.php</mask>
+    <mask>*.php</mask>
     <mask>*.php</mask>
   </component>
 </application>
