@@ -347,7 +347,6 @@
   <action id="Vcs.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
-  <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.RevertSelectedChanges">
     <keyboard-shortcut first-keystroke="shift underscore" />
   </action>
