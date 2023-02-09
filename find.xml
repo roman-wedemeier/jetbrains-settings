@@ -32,8 +32,8 @@
     <mask>*.js</mask>
     <mask>services.xml</mask>
     <mask>*test.php</mask>
-    <mask>*.php</mask>
     <mask>*controller.php</mask>
+    <mask>*.php</mask>
     <mask>*.php</mask>
   </component>
 </application>
