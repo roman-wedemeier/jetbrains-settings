@@ -25,6 +25,7 @@
       <w>peptrack</w>
       <w>phpstan</w>
       <w>produkttemplate</w>
+      <w>typecheck</w>
       <w>usercentrics</w>
     </words>
   </component>
