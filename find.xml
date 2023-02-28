@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
+    <option name="FILE_MASK" value="migration*.php" />
     <mask>*.jsp</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
@@ -33,5 +35,6 @@
     <mask>*.y*</mask>
     <mask>*.php</mask>
     <mask>*.php</mask>
+    <mask>migration*.php</mask>
   </component>
 </application>
