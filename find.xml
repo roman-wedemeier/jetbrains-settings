@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="Migration*.php" />
     <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -13,7 +14,6 @@
     <mask>buffer.js</mask>
     <mask>!package-lock*</mask>
     <mask>*.d.ts</mask>
-    <mask>Migration*.php</mask>
     <mask>*Productdefinition.php</mask>
     <mask>list.tpl</mask>
     <mask>*subscriber.php</mask>
@@ -29,9 +29,10 @@
     <mask>*test.php</mask>
     <mask>*controller.php</mask>
     <mask>*.y*</mask>
-    <mask>*.php</mask>
-    <mask>*.php</mask>
     <mask>migration*.php</mask>
     <mask>*twig</mask>
+    <mask>*.php</mask>
+    <mask>*.php</mask>
+    <mask>Migration*.php</mask>
   </component>
 </application>
